@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Date: Wed, 10 Dec 2025 09:26:53 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+X-Content-Type-Options: nosniff
+Content-Type: image/gif
+Cross-Origin-Resource-Policy: cross-origin
+Content-Security-Policy-Report-Only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsgac:205:0
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=ascnsrsgac:205:0
+Report-To: {"group":"ascnsrsgac:205:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsgac:205:0"}],}
+Server: Golfe2
+Content-Length: 35
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

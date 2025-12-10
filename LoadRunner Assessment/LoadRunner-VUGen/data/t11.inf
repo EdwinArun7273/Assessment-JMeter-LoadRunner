@@ -1,0 +1,17 @@
+[t11]
+FileName1=t11.json
+URL1=https://demowebshop.tricentis.com/addproducttocart/details/22/1
+Total=4
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=t11_RequestBody.txt
+ResponseHeaderFile=t11_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_11.xml
+FileName2=t11_0000131_health-book_47.jpg
+URL2=https://demowebshop.tricentis.com/content/images/thumbs/0000131_health-book_47.jpeg
+FileName3=t11_ico-close-notification-bar.png
+URL3=https://demowebshop.tricentis.com/Themes/DefaultClean/Content/images/ico-close-notification-bar.png
+FileName4=t11_ajax_loader_large.gif
+URL4=https://demowebshop.tricentis.com/Themes/DefaultClean/Content/images/ajax_loader_large.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

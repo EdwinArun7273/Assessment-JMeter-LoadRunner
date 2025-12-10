@@ -1,0 +1,104 @@
+[
+    {
+        "actionName": "Register",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: demowebshop.tricentis.com",
+                "infFile": "t1.inf",
+                "time": 1765359756112
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Register",
+                "infFile": "t2.inf",
+                "time": 1765359767160
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: register",
+                "infFile": "t3.inf",
+                "time": 1765359768176
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: Tricentis Demo Web Shop",
+                "infFile": "t4.inf",
+                "time": 1765359772697
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: logout",
+                "infFile": "t5.inf",
+                "time": 1765359773601
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Log in",
+                "infFile": "t6.inf",
+                "time": 1765359778077
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: login",
+                "infFile": "t7.inf",
+                "time": 1765359778534
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "AddToCart",
+        "steps": [
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: 1",
+                "infFile": "t8.inf",
+                "time": 1765359793321
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "SearchForItem",
+        "steps": [
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: searchtermautocomplete",
+                "infFile": "t10.inf",
+                "time": 1765359793713
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: search",
+                "infFile": "t12.inf",
+                "time": 1765359795027
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: Health Book",
+                "infFile": "t13.inf",
+                "time": 1765359801774
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "Logout",
+        "steps": [
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: logout_2",
+                "infFile": "t14.inf",
+                "time": 1765359812270
+            }
+        ],
+        "transactions": []
+    }
+]

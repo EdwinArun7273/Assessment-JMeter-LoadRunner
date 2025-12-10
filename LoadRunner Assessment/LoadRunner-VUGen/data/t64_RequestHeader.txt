@@ -1,0 +1,17 @@
+GET /catalog/searchtermautocomplete?term=Health+Book HTTP/1.1
+Host: demowebshop.tricentis.com
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://demowebshop.tricentis.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: ARRAffinity=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; ARRAffinitySameSite=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; __utma=78382081.606143095.1765358813.1765358813.1765358813.1; __utmc=78382081; __utmz=78382081.1765358813.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __RequestVerificationToken=R6nk7Ey1HxSmp1ZgYgv2rscl71dMQ8rTlpkrlHMEgvMs8yLWgIcz8LBARZhkVTtrb25shXSCiXmP9SXPrJTYOasf1_e2vuwkgAxvXaZP59g1; ASP.NET_SessionId=jrvetdp3bwavsvami3didypn; NOPCOMMERCE.AUTH=5936B8EB4755A7E5F54089F4856765B2BB12D20638F9A800B6371E3982EB60338DBFCADA973887FBE13A79E5513FD47DFD0FBDA72B0F9C7079B2C42B4E26EC63D68AEE6000819291849132745B9B6AC18880F34B98DAC6AF9481A06882A80A7FF4ED469F46C829070428B0D8BE5F81687AAD9432BFAAAD2C5E2D1C5C417E94ECC96ABEA25F0D2289988ED0136EF5FFAEA04C5CEB28580D546156E45FC340FF8E; Nop.customer=e4643c77-b1c4-4735-9ed3-2e82ab0d0b51; __utmb=78382081.7.10.1765358813
+

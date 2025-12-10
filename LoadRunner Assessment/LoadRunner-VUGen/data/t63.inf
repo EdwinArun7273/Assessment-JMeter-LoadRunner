@@ -1,0 +1,11 @@
+[t63]
+FileName1=t63_ui-bg_glass_75_dadada_1x400.png
+URL1=https://demowebshop.tricentis.com/Content/jquery-ui-themes/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_63.xml
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t63_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+GET /search?q=Health+Book HTTP/1.1
+Referer: https://demowebshop.tricentis.com/
+Accept-Language: en-GB,en;q=0.9
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: Keep-Alive
+Host: demowebshop.tricentis.com
+Cookie: Nop.customer=9fdbc75d-fbba-4c8b-b9d4-87bd74e3da1d; ARRAffinity=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; ARRAffinitySameSite=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; __RequestVerificationToken=f6jjoTVddUsEwL3is9PJdqCZbbDVadnkoNyLfT1_GAlIn6lAUaJvBvdXx4zeHZC0xGQAcaYfyqpq435biEiwSiUfBe3qPnYLUY6_6cJBzIE1; ASP.NET_SessionId=ellfr2s2ykqvfh3tvyt5q4yq
+

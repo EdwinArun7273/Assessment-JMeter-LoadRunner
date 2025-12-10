@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Cross-Origin-Resource-Policy: cross-origin
+Content-Security-Policy-Report-Only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsgac:199:0
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=ascnsrsgac:199:0
+Report-To: {"group":"ascnsrsgac:199:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsgac:199:0"}],}
+Server: Golfe2
+Content-Length: 35
+Date: Wed, 10 Dec 2025 01:56:38 GMT
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Age: 27160
+Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+Content-Type: image/gif
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

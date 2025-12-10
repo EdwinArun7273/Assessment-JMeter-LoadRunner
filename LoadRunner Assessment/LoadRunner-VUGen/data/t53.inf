@@ -1,0 +1,11 @@
+[t53]
+FileName1=t53___utm.gif
+URL1=https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=4&utmn=1420459430&utmhn=demowebshop.tricentis.com&utmcs=UTF-8&utmsr=1280x800&utmvp=1263x689&utmsc=24-bit&utmul=en-gb&utmje=0&utmfl=-&utmdt=Demo%20Web%20Shop&utmhid=9003364&utmr=0&utmp=%2F&utmht=1765358881322&utmac=UA-6574346-11&utmcc=__utma%3D78382081.606143095.1765358813.1765358813.1765358813.1%3B%2B__utmz%3D78382081.1765358813.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_53.xml
+RequestHeaderFile=t53_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t53_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

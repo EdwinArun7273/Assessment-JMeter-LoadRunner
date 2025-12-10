@@ -1,0 +1,17 @@
+GET /catalog/searchtermautocomplete?term=book HTTP/1.1
+Host: demowebshop.tricentis.com
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://demowebshop.tricentis.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: ARRAffinity=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; ARRAffinitySameSite=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; __utma=78382081.1373011359.1765358096.1765358096.1765358096.1; __utmc=78382081; __utmz=78382081.1765358096.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __RequestVerificationToken=WVqw7yr8-oIE1o-dasUoLbysgMRv231pV6cgD27PZkNn3OJaojdBeupvE5RhgFA8QwH4NJzD7KddPTw1wQ0G4e_ZOp3x2O9Czd8n3MBwVPQ1; ASP.NET_SessionId=elwk43nziw4vhbrsjrkm5etv; NOPCOMMERCE.AUTH=7F9EDF9676B98180B8F835481B4A8103064169DA9C65D3FC01FA7965DDFBE06D634A72FCC1A406BDA253FA9F7AB781ED2E69ED048A7508B829D2B01197C2CE9A84973C00F0AA010244A3B9B10911BB7581054C2C00C26351F68F6558D71745AA05032852E62A1C9ADF7A330D363979FF970D2EA6DFAE71EBA6C8B75483BED8B5367230AEDF9E56D8A42C0AB743F88C483B5FA17B8C7A418C76F87197B572025A; Nop.customer=2889f374-5036-4089-a99f-40b9b56e0a7a; __utmb=78382081.7.10.1765358096
+

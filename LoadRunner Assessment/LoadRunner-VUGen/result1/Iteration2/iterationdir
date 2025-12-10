@@ -1,0 +1,10 @@
+[Logout]
+SnapshotIndex=I2_Logout
+[Register]
+SnapshotIndex=I2_Register
+[SearchForItem]
+SnapshotIndex=I2_SearchForItem
+[AddToCart]
+SnapshotIndex=I2_AddToCart
+[Login]
+SnapshotIndex=I2_Login

@@ -1,0 +1,27 @@
+Error: missing newline in D:\LoadRunner Assessment\LoadRunner-VUGen\gender.dat	[MsgId: MERR-13874]
+Error: missing newline in D:\LoadRunner Assessment\LoadRunner-VUGen\email.dat	[MsgId: MERR-13874]
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Register.c(180): web_url("0000201_build-your-own-expensive-computer_125.jpeg") started  	[MsgId: MMSG-26355]
+Register.c(180): Registering web_url("0000201_build-your-own-expensive-computer_125.jpeg") was successful  	[MsgId: MMSG-26390]
+Register.c(188): web_url("0000204_simple-computer_125.jpeg") started  	[MsgId: MMSG-26355]
+Register.c(188): Registering web_url("0000204_simple-computer_125.jpeg") was successful  	[MsgId: MMSG-26390]
+Register.c(196): web_url("favicon.ico") started  	[MsgId: MMSG-26355]
+Register.c(196): Registering web_url("favicon.ico") was successful  	[MsgId: MMSG-26390]
+Register.c(204): web_concurrent_end started  	[MsgId: MMSG-26355]
+Register.c(36): Error -27720: Step download timeout (120 seconds) has expired when downloading resource "https://demowebshop.tricentis.com/Content/jquery-ui-themes/smoothness/jquery-ui-1.10.3.custom.min.css". Set the "Step Timeout caused by resources is a warning" Runtime Setting to Yes/No to have this message as a warning/error, respectively   [issued at Register.c(204)]  	[MsgId: MERR-27720]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Register.c(224): Registering web_url("bullet-right.gif") was successful  	[MsgId: MMSG-26390]
+Register.c(232): web_url("star-x-inactive.png") started  	[MsgId: MMSG-26355]
+Register.c(232): Registering web_url("star-x-inactive.png") was successful  	[MsgId: MMSG-26390]
+Register.c(240): web_url("star-x-active.png") started  	[MsgId: MMSG-26355]
+Register.c(240): Registering web_url("star-x-active.png") was successful  	[MsgId: MMSG-26390]
+Register.c(248): web_url("ga.js") started  	[MsgId: MMSG-26355]
+Register.c(248): Registering web_url("ga.js") was successful  	[MsgId: MMSG-26390]
+Register.c(256): web_concurrent_end started  	[MsgId: MMSG-26355]
+Register.c(240): Error -27720: Step download timeout (120 seconds) has expired when downloading resource "https://demowebshop.tricentis.com/Themes/DefaultClean/Content/images/star-x-active.png". Set the "Step Timeout caused by resources is a warning" Runtime Setting to Yes/No to have this message as a warning/error, respectively   [issued at Register.c(256)]  	[MsgId: MERR-27720]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

@@ -1,0 +1,8 @@
+﻿"Transaction Name","Pass","Fail"
+"AddToCart_Transaction","13","0"
+"Login_Transaction","13","1"
+"Logout_Transaction","13","0"
+"Register_Transaction","14","3"
+"SearchForItem_Transaction","13","0"
+"vuser_end_Transaction","10","0"
+"vuser_init_Transaction","10","0"

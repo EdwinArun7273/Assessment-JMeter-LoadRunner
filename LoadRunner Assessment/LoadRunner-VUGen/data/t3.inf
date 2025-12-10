@@ -1,0 +1,13 @@
+[t3]
+FileName1=t3.htm
+URL1=https://demowebshop.tricentis.com/registerresult/1
+Total=2
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3___utm.gif
+URL2=https://ssl.google-analytics.com/__utm.gif?utmwv=5.7.2&utms=3&utmn=153887520&utmhn=demowebshop.tricentis.com&utmcs=UTF-8&utmsr=1280x800&utmvp=1263x689&utmsc=24-bit&utmul=en-gb&utmje=0&utmfl=-&utmdt=Demo%20Web%20Shop.%20Register&utmhid=1088385062&utmr=0&utmp=%2Fregisterresult%2F1&utmht=1765358168772&utmac=UA-6574346-11&utmcc=__utma%3D78382081.1373011359.1765358096.1765358096.1765358096.1%3B%2B__utmz%3D78382081.1765358096.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~
+[ProtocolInfo]
+ProtocolId=QTWeb

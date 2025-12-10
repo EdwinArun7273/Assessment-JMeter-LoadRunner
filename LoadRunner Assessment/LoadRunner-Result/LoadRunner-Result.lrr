@@ -1,0 +1,33 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2023.0.0.0
+Path=D:\LoadRunner Assessment\LoadRunnerController.lrs
+Subject=
+Result_file=D:\LoadRunner Assessment\LoadRunner-Result\LoadRunner-Result.lrr
+Description=
+ResultName=LoadRunner-Result
+Time_Zone=-19800
+Start_time=1765360743
+Daylight_Bias=0
+Stop_time=1765361034
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 10 Vusers: 1 every 00:00:12 (HH:MM:SS); Run for 00:00:20 (HH:MM:SS); Stop all Vusers: 1 every 00:00:02 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+Global Schedule=ST10_1E12;R20;SP10_1E2;
+[Scripts]
+LoadRunner_VUGen=D:\LoadRunner Assessment\LoadRunner-VUGen\LoadRunner-VUGen.usr
+[Scripts_types]
+LoadRunner_VUGen=Multi+QTWeb

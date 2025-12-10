@@ -1,0 +1,10 @@
+[Logout]
+SnapshotIndex=I3_Logout
+[Register]
+SnapshotIndex=I3_Register
+[SearchForItem]
+SnapshotIndex=I3_SearchForItem
+[AddToCart]
+SnapshotIndex=I3_AddToCart
+[Login]
+SnapshotIndex=I3_Login

@@ -1,0 +1,11 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Register.c(180): web_url("0000201_build-your-own-expensive-computer_125.jpeg") started  	[MsgId: MMSG-26355]
+Register.c(180): Registering web_url("0000201_build-your-own-expensive-computer_125.jpeg") was successful  	[MsgId: MMSG-26390]
+Register.c(188): web_url("0000204_simple-computer_125.jpeg") started  	[MsgId: MMSG-26355]
+Register.c(188): Registering web_url("0000204_simple-computer_125.jpeg") was successful  	[MsgId: MMSG-26390]
+Register.c(196): web_url("favicon.ico") started  	[MsgId: MMSG-26355]
+Register.c(196): Registering web_url("favicon.ico") was successful  	[MsgId: MMSG-26390]
+Register.c(204): web_concurrent_end started  	[MsgId: MMSG-26355]
+Register.c(60): Error -27720: Step download timeout (120 seconds) has expired when downloading resource "https://demowebshop.tricentis.com/Scripts/jquery.validate.min.js". Set the "Step Timeout caused by resources is a warning" Runtime Setting to Yes/No to have this message as a warning/error, respectively   [issued at Register.c(204)]  	[MsgId: MERR-27720]
+End auto log messages stack.	[MsgId: MMSG-10544]
+

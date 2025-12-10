@@ -1,0 +1,11 @@
+[t67]
+FileName1=t67_0000131_health-book_125.jpg
+URL1=https://demowebshop.tricentis.com/content/images/thumbs/0000131_health-book_125.jpeg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_67.xml
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t67_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

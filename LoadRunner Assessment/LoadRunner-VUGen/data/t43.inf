@@ -1,0 +1,11 @@
+[t43]
+FileName1=t43___utm.gif
+URL1=https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=2045491780&utmhn=demowebshop.tricentis.com&utmcs=UTF-8&utmsr=1280x800&utmvp=1263x644&utmsc=24-bit&utmul=en-gb&utmje=0&utmfl=-&utmdt=Demo%20Web%20Shop&utmhid=1788890567&utmr=-&utmp=%2F&utmht=1765358812973&utmac=UA-6574346-11&utmcc=__utma%3D78382081.606143095.1765358813.1765358813.1765358813.1%3B%2B__utmz%3D78382081.1765358813.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=823865070&utmredir=1&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_43.xml
+RequestHeaderFile=t43_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t43_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

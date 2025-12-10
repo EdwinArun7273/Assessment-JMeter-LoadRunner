@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Length: 7610
+Content-Type: text/html; charset=utf-8
+Date: Wed, 10 Dec 2025 09:16:13 GMT
+Server: Microsoft-IIS/10.0
+Cache-Control: private
+Content-Encoding: gzip
+Set-Cookie: Nop.customer=2889f374-5036-4089-a99f-40b9b56e0a7a; expires=Thu, 10-Dec-2026 09:16:13 GMT; path=/; HttpOnly
+Vary: Accept-Encoding
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+

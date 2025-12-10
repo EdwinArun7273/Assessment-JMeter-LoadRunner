@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Cross-Origin-Resource-Policy: cross-origin
+Content-Security-Policy-Report-Only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsgac:215:0
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=ascnsrsgac:215:0
+Report-To: {"group":"ascnsrsgac:215:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsgac:215:0"}],}
+Server: Golfe2
+Content-Length: 17168
+Date: Wed, 10 Dec 2025 08:03:23 GMT
+Expires: Wed, 10 Dec 2025 10:03:23 GMT
+Cache-Control: public, max-age=7200
+Age: 5010
+Last-Modified: Tue, 15 Jul 2025 00:44:26 GMT
+Content-Type: text/javascript
+Vary: Accept-Encoding
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
